@@ -1,0 +1,51 @@
+# ===============
+# Compiled source
+# ===============
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# ======
+# Python
+# ======
+*.pyc
+*.pyo
+.ipynb_checkpoints
+
+# ========
+# Packages
+# ========
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+ 
+# ==================
+# Logs and databases
+# ==================
+*~
+*.bak
+*.log
+*.swp
+*.sql
+*.sqlite
+
+# =============
+# OS meta-files
+# =============
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
