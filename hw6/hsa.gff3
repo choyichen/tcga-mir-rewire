@@ -10,7 +10,7 @@
 # Note, these sequences do not represent the full primary transcript, 
 # rather a predicted stem-loop portion that includes the precursor 
 # miRNA. Mature sequences have type "miRNA".
-#
+Chromosome	idk	Type	Start	End	idk	idk	idk	miR Name
 chr1	.	miRNA_primary_transcript	17369	17436	.	-	.	ID=MI0022705;Alias=MI0022705;Name=hsa-mir-6859-1
 chr1	.	miRNA	17409	17431	.	-	.	ID=MIMAT0027618;Alias=MIMAT0027618;Name=hsa-miR-6859-5p;Derives_from=MI0022705
 chr1	.	miRNA	17369	17391	.	-	.	ID=MIMAT0027619;Alias=MIMAT0027619;Name=hsa-miR-6859-3p;Derives_from=MI0022705
