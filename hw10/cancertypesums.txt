@@ -1,0 +1,62 @@
+	Records	Created	Disrupted
+	1		
+1	3		3
+Acute	19	2	17
+Acute myeloid leukemia	1382	661	721
+Acute_megakaryoblastic_leukemia	130	39	91
+"BladderUrothelialCarcinoma(TCGA,US)"	3681	1771	1910
+Breast	76	47	29
+Breast Cancer	13537	6687	6850
+Breast cancer	177	67	110
+"BreastCarcinoma(WTSI,UK)"	4379	2125	2254
+"BreastInvasiveCarcinoma(TCGA,US)"	1141	529	612
+CCA	6	6	
+"CervicalSquamousCellCarcinoma(TCGA,US)"	543	241	302
+Chronic lymphocytic leukaemia	766	421	345
+"ChronicLymphocyticLeukemia(ISC/MICINN,ES)"	174	70	104
+Colon	396	209	187
+"ColonAdenocarcinoma(TCGA,US)"	17711	7590	10121
+Colorectal	654	325	329
+Colorectal adenocarcinoma	20934	10551	10383
+Endometrial	18	12	6
+Esophageal	196	84	112
+"GastricCancer(CCGC,CN)"	5905	3023	2882
+"GlioblastomaMultiforme(TCGA,US)"	281	138	143
+HNSCC	3		3
+HNSCC/Head	22	13	9
+Hepatocellular	203	70	133
+Hepatocellular carcinoma	1934	740	1194
+Hypodiploid_ALL	5138	2538	2600
+Leukemia	32	13	19
+Leukemia/T-ALL	3873	1960	1913
+"LiverCancer(NCC,JP)"	143130	64929	78201
+"LiverCancer(RIKEN,JP)"	121071	58051	63020
+Low_Grade_Glioma	771	370	401
+Lung	11273	5066	6130
+Lung/SCLC	25	15	10
+"MalignantLymphoma(DKFZ,DE)"	142	67	75
+"MalignantMelanoma(WTSI,UK)"	562	299	263
+Medulloblastoma	8508	4170	4338
+Melanoma	7213	3336	3877
+Multiple	9	6	3
+Multiple myeloma	47	29	18
+Myeloid leukemia	942	506	436
+Myeloma	692	287	405
+"MyeloproliferativeDisorders(WTSI,UK)"	126	108	18
+Non-Hodgkin	69	37	32
+Ovarian	130	57	73
+Pancreatic	705	329	376
+"PancreaticCancer(OICR,CA)"	28	11	17
+"PancreaticCancer(QCMG,AU)"	84	54	30
+"PediatricBrainTumors(DKFZ,DE)"	1864	764	1100
+Prostate	5192	2427	2765
+"ProstateCancer(OICR,CA)"	130318	75327	54991
+Rectum	106	59	47
+"RectumAdenocarcinoma(TCGA,US)"	2721	1337	1384
+Retinoblastoma	65	42	23
+Small cell lung cancer	2794	1288	1506
+"SmallCellLungCarcinoma(WTSI,UK)"	314	178	136
+T-cell	22	9	13
+T-cell ALL	1082	436	646
+"UterineCorpusEndometrioidCarcinoma(TCGA,US)"	40660	20530	20130
+ccRCC	1973	1118	855
