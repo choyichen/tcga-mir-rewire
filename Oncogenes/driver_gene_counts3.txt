@@ -1,0 +1,1143 @@
+	Driver Oncogenes with Disrupted Binding Site	Driver Tumor Suppressor Gene with Created Binding Site	Unclassified Driver Gene with Mutated Binding Site	Total # Mutated Driver Gene Binding Sites
+hsa-let-7a-2-3p		FAS		1
+hsa-let-7a-3p		NR4A2,TET2		2
+hsa-let-7a-5p		TBL1XR1,EEF1A1		2
+hsa-let-7b-3p		NR4A2,TET2		2
+hsa-let-7b-5p		EEF1A1,TBL1XR1		2
+hsa-let-7c		EEF1A1,TBL1XR1		2
+hsa-let-7d-5p		EEF1A1,TBL1XR1		2
+hsa-let-7e-5p		TBL1XR1,EEF1A1		2
+hsa-let-7f-1-3p		NR4A2,TET2		2
+hsa-let-7f-2-3p	NRAS			1
+hsa-let-7f-5p		EEF1A1,TBL1XR1		2
+hsa-let-7g-3p		FAS		1
+hsa-let-7g-5p		TBL1XR1,EEF1A1		2
+hsa-let-7i-3p	RAF1	CDKN2A		2
+hsa-let-7i-5p		EEF1A1,TBL1XR1		2
+hsa-miR-1		SMAD2		1
+hsa-miR-100-3p	MCM3		CUX1	2
+hsa-miR-101-3p	PLCG1			1
+hsa-miR-103a-2-5p	POM121	FAS		2
+hsa-miR-103a-3p	BRWD1	CLOCK		2
+hsa-miR-105-5p	ARFGEF2	LDHA		2
+hsa-miR-106a-3p	PRRX1,EIF4G3		FGFR1	3
+hsa-miR-106a-5p	AHR	MLL	PCSK5,AFF4	4
+hsa-miR-106b-5p	AHR	MLL	PCSK5,SYK,AFF4	5
+hsa-miR-107	BRWD1	CLOCK		2
+hsa-miR-10a-5p		SMAD2		1
+hsa-miR-10b-3p		RTN4,NF1		2
+hsa-miR-10b-5p		SMAD2		1
+hsa-miR-1178	POM121	TP53		2
+hsa-miR-1181		SOX9		1
+hsa-miR-1183		ACO1,ATRX		2
+hsa-miR-1184			WHSC1,FGFR1	2
+hsa-miR-1185-1-3p	NRAS			1
+hsa-miR-1185-2-3p	NRAS			1
+hsa-miR-1197	CLCC1,ERBB3			2
+hsa-miR-1200		COPS2,INPPL1	CNOT4	3
+hsa-miR-1202	ABL2,TJP2			2
+hsa-miR-1204			FANCI	1
+hsa-miR-1206			WHSC1	1
+hsa-miR-1207-3p		ACSL6,PIK3R1		2
+hsa-miR-1207-5p		MAP2K4		1
+hsa-miR-1208		ATRX		1
+hsa-miR-122-5p			SMURF2	1
+hsa-miR-1224-3p	PLCG1	MSR1,ATM,VHL		4
+hsa-miR-1225-3p		PSIP1	AFF4	2
+hsa-miR-1225-5p		MUC20		1
+hsa-miR-1226-3p	SMC1A		WHSC1	2
+hsa-miR-1227	ABL2			1
+hsa-miR-1228-3p	SRGAP1			1
+hsa-miR-1228-5p	NDRG1			1
+hsa-miR-1233		PSIP1		1
+hsa-miR-1237		MUC20		1
+hsa-miR-124-3p		CEBPA		1
+hsa-miR-1244	DIS3		EFTUD2	2
+hsa-miR-1245a	FLT3			1
+hsa-miR-1245b-3p	CLCC1,BPTF	CYLD		3
+hsa-miR-1246	BRWD1			1
+hsa-miR-1247-5p	EPHB2			1
+hsa-miR-1249	AHR			1
+hsa-miR-1251		PTGS1		1
+hsa-miR-1252	NTRK2	TOM1		2
+hsa-miR-1254	MYH14			1
+hsa-miR-1255b-2-3p		PIK3R1	SYK	2
+hsa-miR-1256		CDKN2A,VHL		2
+hsa-miR-125a-3p		CDKN2A	AFF4	2
+hsa-miR-125b-1-3p		KEAP1		1
+hsa-miR-126-5p	CRNKL1			1
+hsa-miR-1260a		MSR1,VHL		2
+hsa-miR-1260b		MSR1,VHL		2
+hsa-miR-1261	CLCC1			1
+hsa-miR-1262		KEAP1	WNK1	2
+hsa-miR-1263	POM121			1
+hsa-miR-1264			CRTC3	1
+hsa-miR-1267		TET2	VIM	2
+hsa-miR-1269a	ABL2,NKX3-1			2
+hsa-miR-1269b	ABL2,NKX3-1			2
+hsa-miR-1271-3p		HLA-A		1
+hsa-miR-1271-5p		FOXP1		1
+hsa-miR-1272		CSNK1G3		1
+hsa-miR-1273c		CDKN2A		1
+hsa-miR-1273d		NF2		1
+hsa-miR-1273e			SH2B3	1
+hsa-miR-1273f	NTRK2,STARD13,ERBB3		FGFR1	4
+hsa-miR-1273g-3p		TET2	WHSC1	2
+hsa-miR-1273g-5p	GNAS			1
+hsa-miR-1275		CLOCK		1
+hsa-miR-1278		RUNX1		1
+hsa-miR-128	GNAS,NRAS	PIK3R1	CAPN7	4
+hsa-miR-1280		MSR1	FGFR1	2
+hsa-miR-1281	HRAS			1
+hsa-miR-1283	MET			1
+hsa-miR-1285-3p		ARHGAP26	JMY	2
+hsa-miR-129-1-3p		CYLD		1
+hsa-miR-129-2-3p		CYLD		1
+hsa-miR-129-5p	KIT		ACSL3	2
+hsa-miR-1290			ACSL3,PIP5K1A	2
+hsa-miR-1291	RAF1			1
+hsa-miR-1293		EP300		1
+hsa-miR-1295b-3p		ARHGAP26,RAD23B,CDC27		3
+hsa-miR-1295b-5p		RB1	FGFR1	2
+hsa-miR-1297	NRAS			1
+hsa-miR-1298		CTCF		1
+hsa-miR-1301	BRWD1,SIN3A		FGFR1	3
+hsa-miR-1302		SMAD2,ARID5B		2
+hsa-miR-1305	BRWD1	PIK3R1,TP53		3
+hsa-miR-1306-5p	HRAS			1
+hsa-miR-130a-3p	LRP6	CDKN2A	FGFR1	3
+hsa-miR-130a-5p	ADCY1,EGFR	HLA-A		3
+hsa-miR-130b-3p	LRP6	CDKN2A	FGFR1	3
+hsa-miR-132-5p	EGFR		PRKCZ	2
+hsa-miR-1321	KIT	ACSL6		2
+hsa-miR-1322	DLG1			1
+hsa-miR-1324	NTRK2		MYD88	2
+hsa-miR-133a	ACACA			1
+hsa-miR-133b	ACACA			1
+hsa-miR-138-2-3p	BCLAF1			1
+hsa-miR-138-5p		FAF1		1
+hsa-miR-139-3p	ERBB3			1
+hsa-miR-139-5p	BRWD1			1
+hsa-miR-140-3p	PLCG1		CAPN7	2
+hsa-miR-141-3p	LPHN2		FGFR1	2
+hsa-miR-141-5p		GNAI1		1
+hsa-miR-142-5p		NF2	AFF4,EFTUD2	3
+hsa-miR-143-3p	ERBB3			1
+hsa-miR-143-5p	NTRK2	MUC20,ZFP36L1	FGFR1	4
+hsa-miR-146a-3p	NTRK2		FAM46C	2
+hsa-miR-146b-3p	NCOR2,RAF1			2
+hsa-miR-1470	NTRK2			1
+hsa-miR-1471		NF2		1
+hsa-miR-147a	ABL2,DLG1,SIN3A	NR4A2		4
+hsa-miR-147b	SIN3A			1
+hsa-miR-148a-3p	GNAS	NAP1L1		2
+hsa-miR-148b-3p	GNAS	NAP1L1		2
+hsa-miR-149-3p	SIN3A,KIT	ACSL6,CLOCK		4
+hsa-miR-150-3p	POM121			1
+hsa-miR-150-5p	AHR,ABL2,NRAS		SYK,PCSK5	5
+hsa-miR-151a-3p	CRNKL1	TP53	CUX1,IRF6	4
+hsa-miR-152	GNAS	NAP1L1		2
+hsa-miR-153	LRP6	CREBBP		2
+hsa-miR-1538	MYH14			1
+hsa-miR-154-5p		NAP1L1		1
+hsa-miR-155-3p	BCL11A			1
+hsa-miR-15a-5p		CYLD	WHSC1	2
+hsa-miR-15b-5p		CYLD	WHSC1	2
+hsa-miR-16-1-3p		SUZ12	SHMT1	2
+hsa-miR-16-2-3p	ACACA			1
+hsa-miR-16-5p		CYLD	WHSC1	2
+hsa-miR-17-5p	AHR	MLL	PCSK5,SYK,AFF4	5
+hsa-miR-181a-3p	EPHB2			1
+hsa-miR-181a-5p		CHD8		1
+hsa-miR-181b-3p		ATRX		1
+hsa-miR-181b-5p		CHD8		1
+hsa-miR-181c-5p		CHD8		1
+hsa-miR-181d		CHD8		1
+hsa-miR-182-3p	SMC1A,NTRK2	MAP2K4		3
+hsa-miR-1827	ZNF814			1
+hsa-miR-183-5p	SMC1A	FOXP1		2
+hsa-miR-185-3p	TCF4	SMARCB1		2
+hsa-miR-185-5p	STARD13			1
+hsa-miR-186-3p	AHR	CTCF	SYK,PCSK5,FGFR1	5
+hsa-miR-186-5p	RBBP7	EIF1AX		2
+hsa-miR-188-3p	GNAS		WHSC1	2
+hsa-miR-188-5p	NDRG1			1
+hsa-miR-18a-3p			FGFR1	1
+hsa-miR-18a-5p		ZFP36L1	JMY	2
+hsa-miR-18b-5p		ZFP36L1	JMY	2
+hsa-miR-1909-3p	HCFC1	TCF12,MAP2K4		3
+hsa-miR-190a		LCP1		1
+hsa-miR-190b		LCP1		1
+hsa-miR-191-5p		RUNX1		1
+hsa-miR-1911-3p	PIK3R3	VHL		2
+hsa-miR-1912		RB1		1
+hsa-miR-1913	MYH14			1
+hsa-miR-1914-3p		EP300		1
+hsa-miR-1914-5p			AFF4	1
+hsa-miR-1915-3p	ZNF814			1
+hsa-miR-1915-5p		TBX3,EEF1A1		2
+hsa-miR-193a-3p			IRF6	1
+hsa-miR-193b-3p			IRF6	1
+hsa-miR-193b-5p	ADCY1,DIS3	ARHGAP26		3
+hsa-miR-194-3p	HCFC1,STARD13			2
+hsa-miR-194-5p	BRWD1,KALRN			2
+hsa-miR-195-3p	ACACA			1
+hsa-miR-195-5p		CYLD	WHSC1	2
+hsa-miR-196a-3p		ARHGAP26,CHD3		2
+hsa-miR-197-3p	ERBB3			1
+hsa-miR-1973		CDKN2A		1
+hsa-miR-1976			CNOT4	1
+hsa-miR-19a-3p	LRP6,FGFR3			2
+hsa-miR-19a-5p		PPP2R5A		1
+hsa-miR-19b-1-5p		PPP2R5A		1
+hsa-miR-19b-2-5p		PPP2R5A		1
+hsa-miR-19b-3p	LRP6,FGFR3			2
+hsa-miR-200a-3p	LPHN2		FGFR1	2
+hsa-miR-202-3p		EEF1A1,TBL1XR1	FGFR1	3
+hsa-miR-203	NTRK2			1
+hsa-miR-204-3p	LPHN2,ERBB3,DIS3,ADCY1			4
+hsa-miR-204-5p	PLCB1,HNF1A			2
+hsa-miR-205-3p	EGFR	ZNF292		2
+hsa-miR-2052		PPP2R5A,FBXW7		2
+hsa-miR-2053	MCM8			1
+hsa-miR-2054	PRRX1	SMAD2	FCRL4	3
+hsa-miR-206		SMAD2		1
+hsa-miR-208a			CUX1	1
+hsa-miR-208b			CUX1	1
+hsa-miR-20a-5p	AHR	MLL	PCSK5,SYK,AFF4	5
+hsa-miR-20b-5p	AHR	MLL	PCSK5,SYK,AFF4	5
+hsa-miR-21-3p	SMC1A			1
+hsa-miR-21-5p	MCM3,BRWD1	BNC2		3
+hsa-miR-210	ABL2,SIN3A			2
+hsa-miR-211-5p	PLCB1,HNF1A			2
+hsa-miR-2110			JMY	1
+hsa-miR-2114-3p		MLL		1
+hsa-miR-2115-3p	CRNKL1		AFF4	2
+hsa-miR-2115-5p		EEF1A1		1
+hsa-miR-2116-3p	GNAS			1
+hsa-miR-2117	PTPN11			1
+hsa-miR-212-5p			RGS3	1
+hsa-miR-214-3p		CHD3		1
+hsa-miR-214-5p		PPP2R5A		1
+hsa-miR-216a	FKBP5,SIN3A	APAF1		3
+hsa-miR-216b	SCAI,FKBP5,SIN3A	APAF1		4
+hsa-miR-218-1-3p	PLCB1	MAP2K4		2
+hsa-miR-218-2-3p	SMC1A			1
+hsa-miR-22-3p			JMY	1
+hsa-miR-221-3p		IRS2,NAP1L1		2
+hsa-miR-221-5p			PRKCZ	1
+hsa-miR-222-3p		IRS2,NAP1L1		2
+hsa-miR-222-5p	EIF4A2			1
+hsa-miR-223-5p	RET	NR4A2		2
+hsa-miR-224-3p	AHR		SVEP1,SHMT1	3
+hsa-miR-2276			WHSC1	1
+hsa-miR-2277-3p		MAP2K4		1
+hsa-miR-2278	NTRK2,KDR		PRKCZ	3
+hsa-miR-2355-3p		FN1		1
+hsa-miR-2355-5p		TBX3,TET2		2
+hsa-miR-23a-3p	ADCY1,EGFR	HLA-A		3
+hsa-miR-23a-5p	FKBP5			1
+hsa-miR-23b-3p	ADCY1,EGFR	HLA-A		3
+hsa-miR-23b-5p	FKBP5			1
+hsa-miR-23c	ADCY1,EGFR	HLA-A		3
+hsa-miR-24-3p	PIK3R3			1
+hsa-miR-2467-3p		SMAD2		1
+hsa-miR-2467-5p		SMAD2		1
+hsa-miR-25-3p	MECOM		STK4	2
+hsa-miR-25-5p			PRKCZ	1
+hsa-miR-2681-3p		FOXP1	SYNCRIP	2
+hsa-miR-2682-3p	POM121	NOTCH1		2
+hsa-miR-26a-1-3p	TCF4			1
+hsa-miR-26a-2-3p	TCF4			1
+hsa-miR-26a-5p	NRAS			1
+hsa-miR-26b-3p	KIT			1
+hsa-miR-26b-5p	NRAS			1
+hsa-miR-27a-3p			PTCH1	1
+hsa-miR-27a-5p	TCF4,ADCY1			2
+hsa-miR-27b-3p			PTCH1	1
+hsa-miR-28-5p	ERBB3			1
+hsa-miR-297	FGFR3	NR4A2		2
+hsa-miR-298		SMAD2		1
+hsa-miR-299-5p		ING1		1
+hsa-miR-29a-5p	HLF			1
+hsa-miR-29b-2-5p		RASA1		1
+hsa-miR-301a-3p	LRP6	CDKN2A	FGFR1	3
+hsa-miR-301b	LRP6	CDKN2A	FGFR1	3
+hsa-miR-302a-3p	TCF4	TP53	PCSK5	3
+hsa-miR-302a-5p	G3BP2,NTRK2,MCM8	FAS	SYNCRIP	5
+hsa-miR-302b-3p	TCF4	TP53	PCSK5	3
+hsa-miR-302b-5p			WHSC1	1
+hsa-miR-302c-3p	TCF4	TP53	PCSK5	3
+hsa-miR-302c-5p	ADCY1	SEC31A		2
+hsa-miR-302d-3p	TCF4	TP53	PCSK5	3
+hsa-miR-302d-5p			WHSC1	1
+hsa-miR-302e	TCF4	TP53	PCSK5	3
+hsa-miR-3064-3p	GNAS			1
+hsa-miR-3065-3p		CIC		1
+hsa-miR-3065-5p	LRP6	VHL	IRF6,WASF3	4
+hsa-miR-30a-3p	NTRK2	ACSL6		2
+hsa-miR-30a-5p		ATRX		1
+hsa-miR-30b-3p	SIN3A	TFDP2,ACSL6,CIC		4
+hsa-miR-30b-5p		ATRX		1
+hsa-miR-30c-1-3p	SIN3A	TFDP2,ACSL6		3
+hsa-miR-30c-2-3p	SIN3A	TFDP2,ACSL6		3
+hsa-miR-30c-5p		ATRX		1
+hsa-miR-30d-3p	NTRK2	ACSL6		2
+hsa-miR-30d-5p		ATRX		1
+hsa-miR-30e-3p	NTRK2	ACSL6		2
+hsa-miR-30e-5p		ATRX		1
+hsa-miR-31-3p	ABL1			1
+hsa-miR-31-5p	ABL2	NF1		2
+hsa-miR-3115	CRNKL1			1
+hsa-miR-3117-5p	FGFR2	ZMYM2		2
+hsa-miR-3119		ATRX		1
+hsa-miR-3120-3p	NTRK2		WHSC1	2
+hsa-miR-3121-3p	SCAI			1
+hsa-miR-3122	SIN3A	SMAD2,TFDP2,ACSL6		4
+hsa-miR-3123		ACO1		1
+hsa-miR-3124-3p		FN1,RUNX1		2
+hsa-miR-3128	ABL2	CHD3		2
+hsa-miR-3129-3p		TJP1		1
+hsa-miR-3133		RUNX1,MED23		2
+hsa-miR-3135a		FBXW7		1
+hsa-miR-3135b	HNF1A,LPHN2	MUC20	STK4	4
+hsa-miR-3136-3p		MSR1		1
+hsa-miR-3136-5p	PRRX1			1
+hsa-miR-3140-5p		COPS2	CNOT4	2
+hsa-miR-3143	ADCY1	SUZ12,SEC31A	ARID4A	4
+hsa-miR-3145-3p		IRS2,FBXW7		2
+hsa-miR-3145-5p		MSR1	FBXO11	2
+hsa-miR-3146	CAT,DIS3			2
+hsa-miR-3147			MYD88	1
+hsa-miR-3148	PAX5	FUBP1,TP53,TOM1,MLL3,MSR1		6
+hsa-miR-3149	AHR			1
+hsa-miR-3150a-3p	STARD13	TP53		2
+hsa-miR-3151	WNT5A			1
+hsa-miR-3153	NTRK3		JMY	2
+hsa-miR-3155a	HNF1A,PIK3R3			2
+hsa-miR-3155b	PIK3R3,HNF1A			2
+hsa-miR-3156-3p			WHSC1	1
+hsa-miR-3156-5p		NCKAP1		1
+hsa-miR-3157-3p		CUL3	CDK4	2
+hsa-miR-3157-5p		CDKN2A		1
+hsa-miR-3158-5p			AFF4	1
+hsa-miR-3159	DIS3			1
+hsa-miR-3161	PGR,BRWD1	SUZ12		3
+hsa-miR-3162-3p			AFF4	1
+hsa-miR-3162-5p	KIT	ACSL6		2
+hsa-miR-3163			SVEP1,WHSC1	2
+hsa-miR-3166			MYD88	1
+hsa-miR-3167			ACSL3	1
+hsa-miR-3170	ADCY1			1
+hsa-miR-3171	MACF1	TBL1XR1		2
+hsa-miR-3173-3p	BAZ2B			1
+hsa-miR-3175	STARD13		WHSC1	2
+hsa-miR-3180-5p		COPS2		1
+hsa-miR-3182		SMAD4		1
+hsa-miR-3184-3p	LRP6			1
+hsa-miR-3184-5p		EP300		1
+hsa-miR-3185	PTPN11	EIF1AX	FGFR1	3
+hsa-miR-3187-5p		ARHGAP26	JMY	2
+hsa-miR-3188	MAX	RUNX1,NF1		3
+hsa-miR-3189-3p		THRAP3	RGS3	2
+hsa-miR-3192	SOX17	CIC		2
+hsa-miR-3193	HRAS			1
+hsa-miR-3194-3p		TET2,STK11		2
+hsa-miR-3194-5p	TJP2			1
+hsa-miR-3199		TFDP2		1
+hsa-miR-32-5p	MECOM		STK4	2
+hsa-miR-3200-5p	PTPN11	IRS2	MAGI2	3
+hsa-miR-3202			RGS3	1
+hsa-miR-320a	HNF1A			1
+hsa-miR-320b	HNF1A			1
+hsa-miR-320c	HNF1A			1
+hsa-miR-320d	HNF1A			1
+hsa-miR-320e	HNF1A	ACSL6	JMY	3
+hsa-miR-323a-3p	PIK3R3	HLA-A		2
+hsa-miR-323a-5p		CUL2		1
+hsa-miR-323b-3p	FGFR2		WHSC1	2
+hsa-miR-324-3p	MYH14		FGFR1	2
+hsa-miR-326	ELF4	STK11		2
+hsa-miR-329	KRAS	LDHA,SOX9		3
+hsa-miR-330-3p	GNAS,POM121		FGFR1,IRF6	4
+hsa-miR-330-5p	ELF4	STK11		2
+hsa-miR-331-3p		THRAP3	FAM46C	2
+hsa-miR-331-5p	NTRK2			1
+hsa-miR-335-3p		CTCF		1
+hsa-miR-338-3p		EEF1A1		1
+hsa-miR-338-5p	CAT	TET2	WHSC1	3
+hsa-miR-339-5p		SMAD2		1
+hsa-miR-33a-3p	PIK3R3,EIF4G3			2
+hsa-miR-33a-5p	CAT			1
+hsa-miR-33b-5p	CAT			1
+hsa-miR-340-3p		SMAD2		1
+hsa-miR-340-5p		NF2,ZMYM2		2
+hsa-miR-342-3p	SRGAP1	HLA-A		2
+hsa-miR-342-5p		MUC20		1
+hsa-miR-346			CRTC3	1
+hsa-miR-3529-3p	PGR	BNC2,VHL	WASF3	4
+hsa-miR-3545-3p	PPP2R5C			1
+hsa-miR-3591-3p	SMC1A			1
+hsa-miR-3607-3p		ATRX		1
+hsa-miR-3607-5p		IRS2		1
+hsa-miR-3609	NTRK3	MLL	AFF4	3
+hsa-miR-361-3p		THRAP3,TET2	WHSC1	3
+hsa-miR-361-5p	CRNKL1		AFF4	2
+hsa-miR-3612		TCF7L2	FGFR1	2
+hsa-miR-3613-3p	PGR,MET,TCF4	SMAD2,GNG2,VHL,TET2,FUBP1	WASF3	9
+hsa-miR-3614-5p	MCM8			1
+hsa-miR-3616-5p	MYH11,KIT			2
+hsa-miR-3617	MCM3			1
+hsa-miR-3619-3p	BAZ2B		SYK	2
+hsa-miR-3619-5p		CHD3		1
+hsa-miR-362-3p	KRAS	LDHA,SOX9		3
+hsa-miR-3622a-5p	BRWD1			1
+hsa-miR-3622b-5p	SIN3A,DHX35			2
+hsa-miR-363-3p	MECOM		STK4	2
+hsa-miR-363-5p	NDRG1	EP300		2
+hsa-miR-3646	NTRK2	FBXW7,VHL		3
+hsa-miR-3652	LPHN2	MUC20,FAF1	RASGRP1,STK4	5
+hsa-miR-3653	KAT6B			1
+hsa-miR-3658	KAT6B			1
+hsa-miR-3659			SMURF2	1
+hsa-miR-365a-3p	HDAC9			1
+hsa-miR-365a-5p		TFDP2		1
+hsa-miR-365b-3p	HDAC9			1
+hsa-miR-365b-5p		TFDP2		1
+hsa-miR-3660	GNAS,RET	VHL		3
+hsa-miR-3662		FUBP1,FBXW7	SVEP1	3
+hsa-miR-3664-3p		NF2		1
+hsa-miR-3664-5p	FGFR2	PTGS1		2
+hsa-miR-3665	GNAS	NAP1L1,MAP2K4		3
+hsa-miR-3666	LRP6	CDKN2A	FGFR1	3
+hsa-miR-3667-3p	NTRK2	FN1,TBX3,INPPL1		4
+hsa-miR-3667-5p	TCF4			1
+hsa-miR-3668		ACO1		1
+hsa-miR-3669			SH2B3	1
+hsa-miR-367-3p	MECOM		STK4	2
+hsa-miR-367-5p		TET2	VIM	2
+hsa-miR-3670		SMARCB1		1
+hsa-miR-3671		LDHA	CDC73	2
+hsa-miR-3672	FAT2	SMAD2		2
+hsa-miR-3673		NCKAP1,SMAD2		2
+hsa-miR-3675-3p	SCAI	ARHGAP26,TET2		3
+hsa-miR-3675-5p	TCF4			1
+hsa-miR-3677-3p			FANCI	1
+hsa-miR-3677-5p	MAX	STK11		2
+hsa-miR-3679-3p		TET2		1
+hsa-miR-3681-3p	GNAS,NRAS	PIK3R1	CAPN7	4
+hsa-miR-3683		CDKN2A		1
+hsa-miR-3684	POM121			1
+hsa-miR-3686	AHR,SRGAP1	MUC20,EEF1A1		4
+hsa-miR-3688-3p	NTRK2,RET	MLL3		3
+hsa-miR-3688-5p	SMC1A			1
+hsa-miR-3689a-3p	SIN3A	TFDP2,ACSL6,CIC		4
+hsa-miR-3689b-3p	SIN3A	TFDP2,ACSL6,CIC		4
+hsa-miR-3689c	SIN3A	TFDP2,ACSL6,CIC		4
+hsa-miR-3689d	NTRK3	NF1,ARID1A		3
+hsa-miR-369-3p	NTRK2		PCSK5	2
+hsa-miR-3692-3p	EGFR		AFF4	2
+hsa-miR-371a-5p		MLLT4		1
+hsa-miR-371b-5p	SCAI			1
+hsa-miR-372	TCF4,AHR	TP53	PCSK5	4
+hsa-miR-373-3p	TCF4	TP53	PCSK5	3
+hsa-miR-373-5p	SCAI			1
+hsa-miR-374a-3p	CRNKL1,BCLAF1		SYNCRIP	3
+hsa-miR-374a-5p		CAST		1
+hsa-miR-374b-3p			FGFR1	1
+hsa-miR-374b-5p		CAST	MAGI2	2
+hsa-miR-374c-5p	NTRK2			1
+hsa-miR-375	KIT	MAP2K4		2
+hsa-miR-376a-5p		RTN4		1
+hsa-miR-376c		CAST		1
+hsa-miR-377-3p	EGFR	SMAD2	FGFR1	3
+hsa-miR-377-5p		ZMYM2,NSD1		2
+hsa-miR-378a-3p	NKX3-1			1
+hsa-miR-378a-5p		COPS2	CNOT4	2
+hsa-miR-378b	NKX3-1			1
+hsa-miR-378c	NKX3-1			1
+hsa-miR-378d	NKX3-1			1
+hsa-miR-378e	NKX3-1			1
+hsa-miR-378f	NKX3-1			1
+hsa-miR-378g	ADCY1			1
+hsa-miR-378h	NKX3-1			1
+hsa-miR-378i	NKX3-1			1
+hsa-miR-380-3p			FCRL4	1
+hsa-miR-382-5p		ARID5B	AFF4	2
+hsa-miR-3908		NAP1L1	FGFR1	2
+hsa-miR-3909			FAM46C	1
+hsa-miR-3913-3p	BRWD1,BCL11A			2
+hsa-miR-3913-5p		SMAD2		1
+hsa-miR-3915	PTPN11			1
+hsa-miR-3916	FAT2			1
+hsa-miR-3920		FAT1		1
+hsa-miR-3921		TET2		1
+hsa-miR-3922-5p	ERBB3	TP53		2
+hsa-miR-3924	MAP2K1			1
+hsa-miR-3925-5p		ACO1		1
+hsa-miR-3928	PTPN11			1
+hsa-miR-3929		RUNX1		1
+hsa-miR-3934			AFF4	1
+hsa-miR-3935			FGFR1	1
+hsa-miR-3936		TOM1		1
+hsa-miR-3937	GNAS	CDKN2A,ARHGAP26		3
+hsa-miR-3939		GPSM2		1
+hsa-miR-3940-5p	NR2F2			1
+hsa-miR-3941	G3BP2,KRAS			2
+hsa-miR-3942-3p	NTRK2	CYLD		2
+hsa-miR-3942-5p		NAP1L1	FGFR1	2
+hsa-miR-3943	PLCG1,ABL2		WHSC1,AFF4	4
+hsa-miR-3944-5p	NTRK2			1
+hsa-miR-3972	TJP2			1
+hsa-miR-3973			AFF4	1
+hsa-miR-3974			CDC73	1
+hsa-miR-3978	NTRK2,PAX5,LPHN2			3
+hsa-miR-410		NAP1L1		1
+hsa-miR-411-5p		EIF1AX		1
+hsa-miR-412	ROBO2			1
+hsa-miR-421	LRP6		AFF4	2
+hsa-miR-422a	NKX3-1			1
+hsa-miR-423-3p		TET2		1
+hsa-miR-423-5p		EP300		1
+hsa-miR-424-3p	AKT1	WT1	PRKCZ	3
+hsa-miR-424-5p		CYLD	WHSC1	2
+hsa-miR-425-3p		TFDP2		1
+hsa-miR-425-5p	FGFR2		AFF4	2
+hsa-miR-4251			MAGI2	1
+hsa-miR-4252	FGFR2			1
+hsa-miR-4254	STARD13,CLCC1			2
+hsa-miR-4257			AFF4	1
+hsa-miR-4258		MSR1,CREBBP		2
+hsa-miR-4260		CLOCK	MYD88,JMY	3
+hsa-miR-4262		CHD8		1
+hsa-miR-4263		CAST		1
+hsa-miR-4266	FAT2		FGFR1	2
+hsa-miR-4268		CDKN2B,CDKN2A	CUX1	3
+hsa-miR-4269	BRWD1	VHL		2
+hsa-miR-4271			JMY	1
+hsa-miR-4272			AFF4	1
+hsa-miR-4273	PTPN11	MAP2K4		2
+hsa-miR-4274			FGFR1	1
+hsa-miR-4279	KRAS	PIK3R1		2
+hsa-miR-4280		NAP1L1,LIMA1		2
+hsa-miR-4281	PIK3R3		FAM46C,CUX1	3
+hsa-miR-4282	ROBO2,SRGAP1,KALRN	MUC20		4
+hsa-miR-4283	ELF4	SMARCB1		2
+hsa-miR-4284		NF2,TFDP2		2
+hsa-miR-4286		CDKN2B,TET2		2
+hsa-miR-4287	NDRG1			1
+hsa-miR-4289		HLA-A		1
+hsa-miR-4290	AHR		CDK4	2
+hsa-miR-4292		THRAP3		1
+hsa-miR-4293	GNAS	MLL		2
+hsa-miR-4295	LRP6	CDKN2A	FGFR1	3
+hsa-miR-4297			CDK4	1
+hsa-miR-4298		SMAD2,ARID5B		2
+hsa-miR-4300	SOX17			1
+hsa-miR-4302	FGFR2	SUZ12	STK4	3
+hsa-miR-4303		IRS2		1
+hsa-miR-4304		STK11		1
+hsa-miR-4306	STARD13			1
+hsa-miR-4310	RET	CLOCK		2
+hsa-miR-4312		STK11		1
+hsa-miR-4314		MUC20		1
+hsa-miR-4315	ROBO2			1
+hsa-miR-4316	NTRK3			1
+hsa-miR-4318			STK4	1
+hsa-miR-432-3p		NOTCH1		1
+hsa-miR-432-5p	STARD13,ASH1L			2
+hsa-miR-4323	ABL2			1
+hsa-miR-4324			MAGI2	1
+hsa-miR-4325	PPP2R5C	CYLD		2
+hsa-miR-4327	CAT	MAP2K4	SH2B3	3
+hsa-miR-4328			EFTUD2	1
+hsa-miR-4329	ERBB3			1
+hsa-miR-4330		ARID5B		1
+hsa-miR-4418			FGFR1	1
+hsa-miR-4419b		RUNX1		1
+hsa-miR-4420		ATRX		1
+hsa-miR-4421		SMAD2		1
+hsa-miR-4422	AKT1,LPHN2,POM121		EFTUD2	4
+hsa-miR-4423-3p		RAD23B,CDC27,NF1		3
+hsa-miR-4424		TP53		1
+hsa-miR-4426	HNF1A	TCF7L2,KEAP1	STK4	4
+hsa-miR-4428	BAZ2B			1
+hsa-miR-4429	HNF1A			1
+hsa-miR-4430	LPHN2	MUC20,FAF1	RASGRP1,STK4	5
+hsa-miR-4432		KDM5C,MSR1	CUX1	3
+hsa-miR-4433-3p	CLCC1,POM121			2
+hsa-miR-4433-5p		MSR1		1
+hsa-miR-4434	NTRK2			1
+hsa-miR-4437		SMARCB1		1
+hsa-miR-4438	PIK3R3	CDC27,RAD23B,ARHGAP26		4
+hsa-miR-4439	PRRX1			1
+hsa-miR-4443	KIT,SRGAP1			2
+hsa-miR-4445-5p	PTPN11	NCKAP1		2
+hsa-miR-4446-5p	NTRK2,EPHB2	CTCF		3
+hsa-miR-4447		EP300,TCF7L2		2
+hsa-miR-4448		CDKN2A		1
+hsa-miR-4449			CUX1	1
+hsa-miR-4452	NTRK2,EGFR			2
+hsa-miR-4453	CAT			1
+hsa-miR-4457		CEBPA,MLL3		2
+hsa-miR-4458		TBL1XR1,EEF1A1		2
+hsa-miR-4459	CLCC1,POM121	NF2,NF1		4
+hsa-miR-4460		KEAP1		1
+hsa-miR-4461	BRWD1			1
+hsa-miR-4462	GNAS			1
+hsa-miR-4463		TP53	IRF6	2
+hsa-miR-4464		ZMYM2,BNC2		2
+hsa-miR-4465	NRAS			1
+hsa-miR-4468	KDR			1
+hsa-miR-4469	NDRG1			1
+hsa-miR-4470			FGFR1	1
+hsa-miR-4472		EP300,TCF7L2		2
+hsa-miR-4474-3p	SMC1A		FANCI	2
+hsa-miR-4474-5p	LRP6	APAF1,STK11		3
+hsa-miR-4476			FGFR1	1
+hsa-miR-4477a	ASH1L	SMAD2,GNG2		3
+hsa-miR-4478		RUNX1		1
+hsa-miR-4481	WNT5A	EP300,KEAP1		3
+hsa-miR-4482-5p			FGFR1	1
+hsa-miR-4483	NDRG1	EP300		2
+hsa-miR-4486	ADCY1			1
+hsa-miR-4487		TP53		1
+hsa-miR-4488	SOX17,ELF4			2
+hsa-miR-4489	ELF4	EIF1AX		2
+hsa-miR-4493	FKBP5			1
+hsa-miR-4494	CRNKL1	COPS2		2
+hsa-miR-4495	NTRK2	TBL1XR1,TCF7L2	AFF4	4
+hsa-miR-4496	PTPN11			1
+hsa-miR-4499		TP53	CUX1,IRF6	3
+hsa-miR-4500		TBL1XR1,EEF1A1		2
+hsa-miR-4502	HLF			1
+hsa-miR-4503		ACSL6		1
+hsa-miR-4504			RASGRP1	1
+hsa-miR-4505	LPHN2	MUC20,FAF1		3
+hsa-miR-4507	NR2F2	STK11		2
+hsa-miR-4508	WNT5A			1
+hsa-miR-450a-3p		CLOCK	MYD88,JMY	3
+hsa-miR-450a-5p	SIN3A		SH2B3	2
+hsa-miR-450b-5p	PRRX1	RAD23B,ERBB2IP		3
+hsa-miR-4511		RUNX1		1
+hsa-miR-4513	PRRX1	TP53		2
+hsa-miR-4514	SIN3A,BRWD1	CDC27,RAD23B		4
+hsa-miR-4515	ABL2			1
+hsa-miR-4516	NTRK2			1
+hsa-miR-4517		LCP1	PCSK5	2
+hsa-miR-4519	HCFC1		STK4,FGFR1	3
+hsa-miR-452-3p	GNAS,FGFR2	CDKN1A		3
+hsa-miR-4520b-3p		FAS		1
+hsa-miR-4524a-3p	FAT2	SMAD2,INPPL1		3
+hsa-miR-4524a-5p			FGFR1	1
+hsa-miR-4524b-3p			IRF6	1
+hsa-miR-4524b-5p			FGFR1	1
+hsa-miR-4526	RET	VHL		2
+hsa-miR-4530	MET,MED17,ZNF814,FKBP5,SIN3A,AHR	APAF1,ACSL6,NF2,EEF1A1	WHSC1,STK4	12
+hsa-miR-4531			PTCH1	1
+hsa-miR-4532			CUX1	1
+hsa-miR-4533	FKBP5		RGS3	2
+hsa-miR-4534	HNF1A			1
+hsa-miR-4536-3p		GPSM2		1
+hsa-miR-4538	CAT			1
+hsa-miR-454-3p	LRP6		FGFR1	2
+hsa-miR-454-5p	PIK3R3	CUL3		2
+hsa-miR-455-3p	ARFGEF2,PIK3R3	CREBBP		3
+hsa-miR-455-5p			AFF4	1
+hsa-miR-4633-3p		SMARCB1		1
+hsa-miR-4633-5p		HLA-A		1
+hsa-miR-4635			WHSC1	1
+hsa-miR-4637		TJP1	SYNCRIP	2
+hsa-miR-4638-3p	NKX3-1			1
+hsa-miR-4640-3p			AFF4	1
+hsa-miR-4640-5p		EIF1AX,FXR1		2
+hsa-miR-4642			SYNCRIP	1
+hsa-miR-4644	STARD13			1
+hsa-miR-4645-5p	PIK3R3,FKBP5	CDKN2A		3
+hsa-miR-4646-5p	LPHN2			1
+hsa-miR-4647	HNF1A	TCF7L2,KEAP1	STK4	4
+hsa-miR-4649-3p	MYH11,ZNF814			2
+hsa-miR-4651	NR2F2	MUC20		2
+hsa-miR-4652-3p	AHR,KIT		PRKCZ	3
+hsa-miR-4653-5p		TET2		1
+hsa-miR-4654	DLG1			1
+hsa-miR-466	G3BP2			1
+hsa-miR-4660	POM121			1
+hsa-miR-4661-3p	GNAS		WHSC1	2
+hsa-miR-4662a-3p	SCAI			1
+hsa-miR-4662b	HNF1A	TCF7L2,KEAP1	STK4	4
+hsa-miR-4663	ERBB3,ZNF814			2
+hsa-miR-4664-5p		MUC20		1
+hsa-miR-4665-5p	ELF4	CLOCK		2
+hsa-miR-4666a-3p		NR4A2,TET2		2
+hsa-miR-4666b		NF2,EEF1A1,GPSM2		3
+hsa-miR-4667-3p	NTRK2			1
+hsa-miR-4667-5p	ELF4	TP53		2
+hsa-miR-4668-3p	EGFR,SCAI,SRGAP1,NTRK2,BCL11A			5
+hsa-miR-4668-5p		MLL3	JMY	2
+hsa-miR-4671-3p		CDKN2A		1
+hsa-miR-4672	G3BP2,NRAS			2
+hsa-miR-4673	PIK3R3,FKBP5	CDKN2A		3
+hsa-miR-4676-5p	ZNF814,FGFR2			2
+hsa-miR-4677-3p	NTRK2,RAF1	NAP1L1		3
+hsa-miR-4677-5p		MAP2K4		1
+hsa-miR-4678	KRAS			1
+hsa-miR-4679	NTRK2			1
+hsa-miR-4680-3p	NTRK2			1
+hsa-miR-4680-5p	PPP2R5C	NF2		2
+hsa-miR-4684-5p	KRAS	ARHGAP26,PTGS1	CUX1,FGFR1	5
+hsa-miR-4685-3p	NDRG1			1
+hsa-miR-4686	CAT	IRS2		2
+hsa-miR-4687-3p	MAX	ATRX		2
+hsa-miR-4690-3p	ABL2			1
+hsa-miR-4690-5p		CHD3		1
+hsa-miR-4691-3p	SMC1A	CDKN2A	WHSC1	3
+hsa-miR-4691-5p		INPPL1		1
+hsa-miR-4692	SIN3A			1
+hsa-miR-4693-3p		CDKN1B		1
+hsa-miR-4694-3p		LDHA		1
+hsa-miR-4694-5p		CUL2		1
+hsa-miR-4695-5p	NTRK3,FAT2		FGFR1	3
+hsa-miR-4697-5p	SOX17,ELF4			2
+hsa-miR-4698	SCAI,PIK3R3			2
+hsa-miR-4700-5p		TP53		1
+hsa-miR-4701-3p		KEAP1	WNK1	2
+hsa-miR-4703-5p			FGFR1	1
+hsa-miR-4705		CLOCK		1
+hsa-miR-4708-3p	MECOM	NF1	FGFR1	3
+hsa-miR-4708-5p	ERBB3		FGFR1	2
+hsa-miR-4709-5p	BRWD1			1
+hsa-miR-4710	NTRK3	KEAP1		2
+hsa-miR-4711-5p	POM121	ARHGEF6		2
+hsa-miR-4712-3p	FAT2,CTNNB1			2
+hsa-miR-4712-5p	FGFR2			1
+hsa-miR-4713-3p		VHL		1
+hsa-miR-4714-3p	GNAS			1
+hsa-miR-4715-5p		MAP2K4		1
+hsa-miR-4716-3p		MAP2K4	TNPO1	2
+hsa-miR-4716-5p	FGFR3			1
+hsa-miR-4717-5p	ERBB3,PLCG1			2
+hsa-miR-4718			WASF3	1
+hsa-miR-4719	PLCB1		SPOP	2
+hsa-miR-4720-3p	TCF4			1
+hsa-miR-4720-5p			PRKCZ	1
+hsa-miR-4722-3p	PLCG1,EGFR,GNAS	CASP1		4
+hsa-miR-4722-5p	ZNF814	EEF1A1		2
+hsa-miR-4723-5p		ARID1A,CLOCK	SMURF2	3
+hsa-miR-4724-5p			SH2B3	1
+hsa-miR-4725-5p		THRAP3,TP53		2
+hsa-miR-4726-3p	HNF1A,ZNF814			2
+hsa-miR-4726-5p		EIF1AX,FXR1,ARHGAP26		3
+hsa-miR-4727-3p		KEAP1		1
+hsa-miR-4728-5p	SIN3A	CIC,TFDP2,ACSL6,CLOCK		5
+hsa-miR-4729		FXR1		1
+hsa-miR-4730			PRKCZ	1
+hsa-miR-4731-3p	G3BP2	NR4A2	FGFR1	3
+hsa-miR-4731-5p		MUC20,TP53		2
+hsa-miR-4733-5p	SIN3A,MED17,MET,FKBP5	ACSL6,APAF1,EEF1A1,VHL		8
+hsa-miR-4735-3p	GNAS	ZFP36L1	JMY	3
+hsa-miR-4735-5p		CAST		1
+hsa-miR-4736	SOX17	MAP2K4		2
+hsa-miR-4737	SIN3A			1
+hsa-miR-4738-3p	AKT3			1
+hsa-miR-4738-5p	FKBP5	ZNF292		2
+hsa-miR-4739	KIT	ACSL6		2
+hsa-miR-4740-5p	ABL2			1
+hsa-miR-4742-3p	AHR			1
+hsa-miR-4742-5p		CDC27		1
+hsa-miR-4745-5p	WNT5A	EP300,KEAP1		3
+hsa-miR-4746-5p		NF2		1
+hsa-miR-4747-5p	LPHN2,NTRK3	KDM5C		3
+hsa-miR-4748		ZMYM2,BNC2		2
+hsa-miR-4750		CDKN2A		1
+hsa-miR-4751	BAZ2B			1
+hsa-miR-4753-5p	PLCG1,ERBB3,FKBP5			3
+hsa-miR-4754		ARID5B		1
+hsa-miR-4755-3p	FKBP5	NF2		2
+hsa-miR-4755-5p	PLCB1	CTCF		2
+hsa-miR-4756-3p		DEPDC1B		1
+hsa-miR-4756-5p	KIT	ACSL6		2
+hsa-miR-4757-5p	POM121			1
+hsa-miR-4758-3p		CDKN2B	PTCH1	2
+hsa-miR-4758-5p		EP300,KEAP1		2
+hsa-miR-4760-3p		GNG2		1
+hsa-miR-4761-5p		TCF7L2		1
+hsa-miR-4762-3p	HNF1A			1
+hsa-miR-4762-5p		TCF7L2		1
+hsa-miR-4763-3p		MAP2K4		1
+hsa-miR-4763-5p	MYH14		CRTC3	2
+hsa-miR-4766-3p		CCAR1,NAP1L1	FGFR1	3
+hsa-miR-4768-3p	CLCC1,ZNF814,POM121	EEF1A1,INPPL1		5
+hsa-miR-4768-5p		IRS2		1
+hsa-miR-4770	ERBB3			1
+hsa-miR-4773	KDR	CHD3		2
+hsa-miR-4774-5p	BPTF	GATA3		2
+hsa-miR-4775	AHR,KRAS			2
+hsa-miR-4778-3p	POM121			1
+hsa-miR-4778-5p		PTGS1	MYC	2
+hsa-miR-4781-5p	WNT5A			1
+hsa-miR-4782-5p	NKX3-1	NOTCH1		2
+hsa-miR-4783-3p	KIT			1
+hsa-miR-4783-5p		SMAD4		1
+hsa-miR-4787-3p			TNPO1	1
+hsa-miR-4787-5p		ARHGAP26		1
+hsa-miR-4789-3p	SETDB1,CLCC1			2
+hsa-miR-4790-3p	KALRN			1
+hsa-miR-4790-5p	ROBO2			1
+hsa-miR-4793-3p	PLCB1	CYLD		2
+hsa-miR-4793-5p	GNAS			1
+hsa-miR-4795-3p		FBXW7		1
+hsa-miR-4795-5p	MYH11			1
+hsa-miR-4797-5p		ARHGAP35		1
+hsa-miR-4799-5p	BCL11A			1
+hsa-miR-4801	G3BP2			1
+hsa-miR-4802-5p	KIT,HNF1A			2
+hsa-miR-4803	AHR,PGR		WHSC1	3
+hsa-miR-4804-5p	ABL2			1
+hsa-miR-483-3p	PPP2R5C	CDKN2B		2
+hsa-miR-483-5p	DIS3	KEAP1		2
+hsa-miR-484	PIK3R3,HNF1A			2
+hsa-miR-485-3p		FAS,SMAD2	AFF4	3
+hsa-miR-485-5p	MAX	RUNX1		2
+hsa-miR-486-3p	SOX17			1
+hsa-miR-488-3p	BRWD1		WNK1	2
+hsa-miR-488-5p		TBL1XR1		1
+hsa-miR-489	BCL11A		AFF4	2
+hsa-miR-490-3p	GNAS		MAGI2	2
+hsa-miR-490-5p	POM121			1
+hsa-miR-491-3p	NTRK2			1
+hsa-miR-491-5p	STARD13,EGFR			2
+hsa-miR-493-3p			MYD88	1
+hsa-miR-493-5p	SOS1	FAS		2
+hsa-miR-494		KLF6	RASGRP1	2
+hsa-miR-495	AHR,KAT6B	MLH3,CCAR1,TJP1	PIK3C2B	6
+hsa-miR-496	NTRK2			1
+hsa-miR-497-5p		CYLD	WHSC1	2
+hsa-miR-498	FKBP5			1
+hsa-miR-4999-3p			WHSC1	1
+hsa-miR-499a-3p		FOXP1	XRN1	2
+hsa-miR-499a-5p	TCF4		CUX1	2
+hsa-miR-499b-3p		FOXP1	XRN1	2
+hsa-miR-499b-5p	CRNKL1	COPS2		2
+hsa-miR-5002-5p		MAP2K4		1
+hsa-miR-5003-3p	BRWD1,PLCB1,AKT3		AFF4	4
+hsa-miR-5003-5p		MAP2K4	MED24,CAPN7	3
+hsa-miR-5004-3p			ACSL3	1
+hsa-miR-5006-3p	PLCB1	CTCF		2
+hsa-miR-5006-5p	ABL2	NF2		2
+hsa-miR-5007-3p	NKX3-1	FAS		2
+hsa-miR-5008-3p	HRAS		AFF4	2
+hsa-miR-5008-5p			CUX1	1
+hsa-miR-500a-5p	ROBO2			1
+hsa-miR-501-3p			AFF4	1
+hsa-miR-501-5p	ROBO2	VHL		2
+hsa-miR-5010-3p	RET			1
+hsa-miR-502-3p			AFF4	1
+hsa-miR-502-5p		TBX3,EEF1A1		2
+hsa-miR-503	GNAS			1
+hsa-miR-504		TP53,THRAP3		2
+hsa-miR-5047	BRWD1,SIN3A		FGFR1	3
+hsa-miR-505-5p	ASH1L			1
+hsa-miR-506-3p		CEBPA		1
+hsa-miR-507	PPP2R5C,FGFR2			2
+hsa-miR-508-5p		KDM5C	STK4	2
+hsa-miR-5087		PPP2R5A		1
+hsa-miR-5089	ERBB3,DIS3,ADCY1	TFDP2		4
+hsa-miR-509-3-5p			FGFR1	1
+hsa-miR-509-5p			FGFR1	1
+hsa-miR-5091			PTCH1	1
+hsa-miR-5092		STK11		1
+hsa-miR-5093	NTRK2,RET,PTPN11			3
+hsa-miR-5095	NTRK2	ARHGAP26,CDC27,RAD23B,TFDP2		5
+hsa-miR-5096	ERBB3	ARHGAP26		2
+hsa-miR-510		CDKN2A,NF2		2
+hsa-miR-5100		CYLD		1
+hsa-miR-511		FN1		1
+hsa-miR-512-3p			PCSK5	1
+hsa-miR-512-5p		TBL1XR1,ATRX		2
+hsa-miR-513a-3p	KALRN		TNPO1	2
+hsa-miR-513c-3p	KALRN		TNPO1	2
+hsa-miR-513c-5p	BCLAF1,NRAS			2
+hsa-miR-514b-5p	NRAS,BCLAF1			2
+hsa-miR-516a-3p		EEF1A1		1
+hsa-miR-516a-5p		PTGS1		1
+hsa-miR-516b-3p		EEF1A1		1
+hsa-miR-516b-5p	SRGAP1			1
+hsa-miR-517-5p		PTGS1		1
+hsa-miR-517a-3p		CDKN2A		1
+hsa-miR-517b-3p		CDKN2A		1
+hsa-miR-517c-3p		CDKN2A		1
+hsa-miR-5186	ERBB3,PTPN11			2
+hsa-miR-5187-3p	NTRK2		SH2B3	2
+hsa-miR-5189		ARHGAP26	JMY	2
+hsa-miR-518a-5p	LRP6,KALRN,FGFR3	ERBB2IP,RAD23B		5
+hsa-miR-518c-5p		NOTCH1		1
+hsa-miR-518e-3p		TP53		1
+hsa-miR-5190		STK11	RASGRP1	2
+hsa-miR-5192	STARD13			1
+hsa-miR-5193		PIK3R1,INPPL1		2
+hsa-miR-5194		EP300		1
+hsa-miR-5196-3p	GNAS	CCAR1		2
+hsa-miR-5196-5p	LPHN2,NTRK3	KDM5C		3
+hsa-miR-5197-3p		EIF1AX	FGFR1	2
+hsa-miR-519a-3p		NF1	AFF4	2
+hsa-miR-519b-3p		NF1	AFF4	2
+hsa-miR-519c-3p		NF1	AFF4	2
+hsa-miR-519d	AHR	MLL	PCSK5,SYK,AFF4	5
+hsa-miR-520a-3p	AHR,TCF4	TP53	PCSK5	4
+hsa-miR-520a-5p		COPS2		1
+hsa-miR-520b	TCF4,AHR	TP53	PCSK5	4
+hsa-miR-520c-3p	TCF4,AHR	TP53	PCSK5	4
+hsa-miR-520d-3p	AHR,TCF4	TP53	PCSK5	4
+hsa-miR-520d-5p	MET,PIK3R3	NR4A2		3
+hsa-miR-520e	AHR,TCF4	TP53	PCSK5	4
+hsa-miR-520g	AHR		SYK,PCSK5,AFF4	4
+hsa-miR-520h	AHR		SYK,PCSK5,AFF4	4
+hsa-miR-522-3p	AHR		SVEP1,SHMT1	3
+hsa-miR-523-3p		GPSM2		1
+hsa-miR-524-5p	MET,PIK3R3	NR4A2		3
+hsa-miR-525-5p		COPS2		1
+hsa-miR-526b-3p	AHR	MLL	PCSK5,AFF4	4
+hsa-miR-526b-5p		TBL1XR1	WHSC1	2
+hsa-miR-527	LRP6,KALRN,FGFR3	ERBB2IP,RAD23B		5
+hsa-miR-532-3p	GNAS			1
+hsa-miR-532-5p		MUC20,CUL2,EEF1A1,HLA-A	WHSC1	5
+hsa-miR-539-3p		FAS,SMAD2	AFF4	3
+hsa-miR-541-5p	NTRK2,BRWD1			2
+hsa-miR-542-3p		NCOR1		1
+hsa-miR-543	ADCY1	SUZ12	ARID4A	3
+hsa-miR-545-3p	GNAS			1
+hsa-miR-545-5p	EIF4A2,BCLAF1			2
+hsa-miR-548a-5p			EFTUD2	1
+hsa-miR-548aa	AKT1			1
+hsa-miR-548ab			EFTUD2	1
+hsa-miR-548ac	AKT1,BCL11A		SHMT1	3
+hsa-miR-548ae	AHR	MSR1,NCOR1	SHMT1	4
+hsa-miR-548ag		MSR1	IRF6	2
+hsa-miR-548ah-3p	AHR	MSR1,NCOR1	SHMT1	4
+hsa-miR-548ah-5p	NTRK3	MLL		2
+hsa-miR-548ai		MSR1	IRF6	2
+hsa-miR-548aj-3p	AHR	MSR1,NCOR1	SHMT1	4
+hsa-miR-548aj-5p	LRP6	ERBB2IP		2
+hsa-miR-548ak			EFTUD2	1
+hsa-miR-548am-3p	AHR	MSR1,NCOR1	SHMT1	4
+hsa-miR-548am-5p			EFTUD2	1
+hsa-miR-548an			AFF4	1
+hsa-miR-548ao-3p	TCF4			1
+hsa-miR-548ao-5p	GNAS	EEF1A1		2
+hsa-miR-548ap-3p	AKT1			1
+hsa-miR-548ap-5p			EFTUD2	1
+hsa-miR-548aq-3p	AHR	MSR1,NCOR1	SHMT1	4
+hsa-miR-548aq-5p			EFTUD2	1
+hsa-miR-548ar-5p			EFTUD2	1
+hsa-miR-548as-3p	BCL11A			1
+hsa-miR-548as-5p			EFTUD2	1
+hsa-miR-548at-5p			AFF4	1
+hsa-miR-548au-5p			EFTUD2	1
+hsa-miR-548av-5p	DIS3	RUNX1	EFTUD2	3
+hsa-miR-548aw	LRP6,KALRN	RAD23B,ERBB2IP		4
+hsa-miR-548ax	GNAS	EEF1A1		2
+hsa-miR-548b-5p			EFTUD2	1
+hsa-miR-548c-3p	BCL11A,NTRK2	GNG2	SHMT1	4
+hsa-miR-548c-5p			EFTUD2	1
+hsa-miR-548d-3p	AKT1,BCL11A		SHMT1	3
+hsa-miR-548d-5p			EFTUD2	1
+hsa-miR-548g-3p		TJP1		1
+hsa-miR-548g-5p	LRP6	ERBB2IP		2
+hsa-miR-548h-3p	AKT1,BCL11A		SHMT1	3
+hsa-miR-548h-5p			EFTUD2	1
+hsa-miR-548i			EFTUD2	1
+hsa-miR-548j			EFTUD2	1
+hsa-miR-548k	DIS3	RUNX1	EFTUD2	3
+hsa-miR-548l			EFTUD2	1
+hsa-miR-548m		MSR1		1
+hsa-miR-548n		PIK3R1		1
+hsa-miR-548o-5p			EFTUD2	1
+hsa-miR-548s	NTRK3			1
+hsa-miR-548t-3p	AKT1			1
+hsa-miR-548u	MCM3,NR2F2	MSR1	FGFR1	4
+hsa-miR-548w			EFTUD2	1
+hsa-miR-548x-3p	AHR	MSR1,NCOR1	SHMT1	4
+hsa-miR-548x-5p	LRP6	ERBB2IP		2
+hsa-miR-548y			EFTUD2	1
+hsa-miR-548z	AKT1,BCL11A		SHMT1	3
+hsa-miR-550a-3-5p		HLA-A		1
+hsa-miR-550a-5p		HLA-A		1
+hsa-miR-550b-2-5p		HLA-A		1
+hsa-miR-550b-3p	BRWD1			1
+hsa-miR-551b-5p	LRP6,NTRK2			2
+hsa-miR-552	KRAS		AFF4	2
+hsa-miR-553	BCLAF1		SHMT1	2
+hsa-miR-555			WNK1	1
+hsa-miR-556-3p	MECOM			1
+hsa-miR-557	PPP2R5C,PRRX1,FGFR2	ERBB2IP		4
+hsa-miR-5572		VHL,CLOCK	JMY	3
+hsa-miR-5579-3p	CAT	BNC2		2
+hsa-miR-5580-3p	HDAC9			1
+hsa-miR-5581-3p		EEF1A1		1
+hsa-miR-5581-5p			CDK4	1
+hsa-miR-5582-3p		NCOR1		1
+hsa-miR-5582-5p		CEBPA		1
+hsa-miR-5583-3p		LCP1	WHSC1,PTCH1,PCSK5	4
+hsa-miR-5583-5p		TJP1		1
+hsa-miR-5584-3p	CLCC1			1
+hsa-miR-5584-5p	NTRK3	MLL3		2
+hsa-miR-5585-3p	KALRN,ROBO2	ACSL6		3
+hsa-miR-5585-5p	GNAS		SYK	2
+hsa-miR-5586-3p		ATRX	STK4	2
+hsa-miR-5587-3p			CUX1	1
+hsa-miR-5587-5p	ACACA			1
+hsa-miR-5588-3p		APAF1		1
+hsa-miR-5589-3p	RAF1			1
+hsa-miR-5589-5p	LPHN2,ERBB3,DIS3			3
+hsa-miR-5590-3p		NF2	AFF4,EFTUD2	3
+hsa-miR-5591-5p	SOX17			1
+hsa-miR-561-3p	LPHN2		AFF4	2
+hsa-miR-561-5p		TCF7L2		1
+hsa-miR-562		IRS2,ARID5B	EFTUD2	3
+hsa-miR-563			FGFR1	1
+hsa-miR-564	DHX35			1
+hsa-miR-566	HRAS			1
+hsa-miR-567	FGFR3	NR4A2		2
+hsa-miR-568	RET	LIMA1		2
+hsa-miR-5680	BCL11A,KAT6B,PTPN11		AFF4	4
+hsa-miR-5681a	BRWD1		WNK1	2
+hsa-miR-5681b		GATA3,FBXW7		2
+hsa-miR-5683	CLCC1	CYLD,NF1		3
+hsa-miR-5685	ABL2			1
+hsa-miR-5687		MAP2K4		1
+hsa-miR-5688	AHR,KAT6B	MLH3,TJP1	PIK3C2B	5
+hsa-miR-5689		BNC2	MYD88	2
+hsa-miR-5690	AHR	APAF1		2
+hsa-miR-5691		TET2,STK11		2
+hsa-miR-5692a		ACSL6,NCKAP1	CDC73	3
+hsa-miR-5692b			PCSK5	1
+hsa-miR-5692c			PCSK5	1
+hsa-miR-5693		NF2,STK11	FGFR1	3
+hsa-miR-5696	FGFR2	CDKN1B		2
+hsa-miR-5697	NRAS			1
+hsa-miR-5698		ARID1A,CLOCK	SMURF2	3
+hsa-miR-5699		SMAD2		1
+hsa-miR-570-3p	ROBO2,CLCC1	ATRX	AFF4	4
+hsa-miR-570-5p		MSR1	IRF6	2
+hsa-miR-5703	NTRK2			1
+hsa-miR-5706	NKX3-1	NOTCH1		2
+hsa-miR-5707	CLCC1			1
+hsa-miR-572		ATM,PIK3R1		2
+hsa-miR-573	MYH11,KIT			2
+hsa-miR-574-5p		ATRX		1
+hsa-miR-575	FGFR2,ZNF814			2
+hsa-miR-576-5p		CAST		1
+hsa-miR-577		NF2,DEPDC1B		2
+hsa-miR-578			WHSC1	1
+hsa-miR-579		CDKN1B		1
+hsa-miR-580	BRWD1			1
+hsa-miR-582-3p		GATA3,PIK3R1		2
+hsa-miR-587	EPHB2,FGFR3			2
+hsa-miR-589-3p	LPHN2,KDR	COPS2,MED23	SYNCRIP	5
+hsa-miR-589-5p	BAZ2B			1
+hsa-miR-590-5p	CAT,MCM3,BRWD1	BNC2		4
+hsa-miR-592	HLF,HRAS			2
+hsa-miR-593-3p			PRKCZ	1
+hsa-miR-593-5p	BRWD1			1
+hsa-miR-595	MYH11			1
+hsa-miR-596	GNAS		CRTC3	2
+hsa-miR-597	BPTF			1
+hsa-miR-598			EFTUD2	1
+hsa-miR-599	RET			1
+hsa-miR-600	ADCY1			1
+hsa-miR-603	PIK3R3,KRAS			2
+hsa-miR-607	KALRN	APC,LDHA,FUBP1		4
+hsa-miR-608	NR2F2	MUC20		2
+hsa-miR-609			SMURF2	1
+hsa-miR-612	ADCY1	ARHGAP26	JMY	3
+hsa-miR-613		SMAD2		1
+hsa-miR-616-3p	WNT5A			1
+hsa-miR-616-5p	SCAI			1
+hsa-miR-617		ACSL6		1
+hsa-miR-619	STARD13,CLCC1	ARHGAP26		3
+hsa-miR-620			PTCH1	1
+hsa-miR-623	PLCB1			1
+hsa-miR-624-3p	MECOM	TP53,MSR1,CEBPA		4
+hsa-miR-624-5p	EGFR		SYK	2
+hsa-miR-625-3p		CCAR1,VHL		2
+hsa-miR-625-5p		MAP2K4	TNPO1	2
+hsa-miR-627		PSIP1		1
+hsa-miR-629-3p	NDRG1			1
+hsa-miR-633	RET	CASP8		2
+hsa-miR-634		ZNF292	WHSC1	2
+hsa-miR-635		THRAP3,NF2	MYD88	3
+hsa-miR-637	SOX17,ELF4			2
+hsa-miR-641	MCM3			1
+hsa-miR-642a-3p	CLCC1			1
+hsa-miR-642a-5p	NTRK2			1
+hsa-miR-642b-3p	CLCC1			1
+hsa-miR-642b-5p	PLCB1			1
+hsa-miR-643		FAS,GATA3		2
+hsa-miR-644a	DLG1			1
+hsa-miR-644b-3p		CDKN1B		1
+hsa-miR-648		LIMA1		1
+hsa-miR-649			MAGI2	1
+hsa-miR-650		TCF7L2	FGFR1	2
+hsa-miR-652-3p			FGFR1	1
+hsa-miR-652-5p	BCL11A	TP53		2
+hsa-miR-654-3p		EEF1A1,MUC20		2
+hsa-miR-655	NTRK2			1
+hsa-miR-656		MSR1,FBXW7		2
+hsa-miR-657	GNAS	NAP1L1,MAP2K4		3
+hsa-miR-658			PRKCZ	1
+hsa-miR-659-3p		MAP2K4		1
+hsa-miR-660-3p	NTRK2	PIK3R1,INPPL1		3
+hsa-miR-661			JMY	1
+hsa-miR-664-3p	BRWD1,FGFR2	GNG2		3
+hsa-miR-665	ZNF814	INPPL1,NF2		3
+hsa-miR-676-3p		FN1		1
+hsa-miR-676-5p			AFF4	1
+hsa-miR-7-1-3p	AHR,KAT6B,LRP6	CCAR1,TJP1	PIK3C2B	6
+hsa-miR-7-2-3p	AHR,LRP6,KAT6B	CCAR1,TJP1	PIK3C2B	6
+hsa-miR-7-5p		KEAP1,KDM5C,NF2	STK4	4
+hsa-miR-708-5p	ERBB3			1
+hsa-miR-711			WHSC1	1
+hsa-miR-744-5p	WNT5A			1
+hsa-miR-759		ATRX,ARHGAP35	PCSK5	3
+hsa-miR-760	HNF1A			1
+hsa-miR-761		CHD3		1
+hsa-miR-764	GNAS	CDKN2A		2
+hsa-miR-765	NTRK3		PIP5K1A	2
+hsa-miR-766-5p	FAT2		FGFR1	2
+hsa-miR-767-5p	BRWD1			1
+hsa-miR-770-5p	FGFR2			1
+hsa-miR-802	BRWD1,CLCC1			2
+hsa-miR-873-3p		ACO1		1
+hsa-miR-873-5p		MSR1		1
+hsa-miR-874			CDK4	1
+hsa-miR-875-3p	LPHN2			1
+hsa-miR-875-5p		TET2	FGFR1	2
+hsa-miR-876-3p	GNAS			1
+hsa-miR-876-5p			ACSL3	1
+hsa-miR-877-3p	POM121			1
+hsa-miR-877-5p	MAX			1
+hsa-miR-885-3p	GNAS	CHD3,CLOCK,MAP2K4		4
+hsa-miR-887		PIK3R1		1
+hsa-miR-888-3p	GNAS,RET			2
+hsa-miR-890	STARD13			1
+hsa-miR-891a		NAP1L1		1
+hsa-miR-920	SOX17,WNT5A			2
+hsa-miR-92a-1-5p			MYD88	1
+hsa-miR-92a-2-5p		EP300,TCF7L2		2
+hsa-miR-92a-3p	MECOM		STK4	2
+hsa-miR-92b-3p	MECOM		STK4	2
+hsa-miR-92b-5p		ARID5B		1
+hsa-miR-93-3p	AHNAK			1
+hsa-miR-93-5p	AHR	MLL	PCSK5,SYK,AFF4	5
+hsa-miR-933	ABL2	SMAD4		2
+hsa-miR-938		CYLD		1
+hsa-miR-940	ZNF814			1
+hsa-miR-942		PTGS1	CUX1	2
+hsa-miR-943	PRRX1			1
+hsa-miR-944	NTRK2			1
+hsa-miR-96-3p		PPP2R5A		1
+hsa-miR-96-5p		FOXP1		1
+hsa-miR-98		EEF1A1,TBL1XR1		2
+hsa-miR-99a-3p			CUX1	1
+hsa-miR-99b-3p			CUX1	1
